@@ -11,7 +11,7 @@ The examples cover key μC/OS-III concepts (e.g., task management, semaphores, m
 ## 2. Learning Resources
 My study of μC/OS-III and STM32 porting relies on the following authoritative references:
 ### 2.1 Official μC/OS-III Reference Manual (from Micrium, the developer of μC/OS-III)
-### 2.2 Zhengdian Atom’s μC/OS-III Development Guide & Example Code (practical STM32-specific RTOS tutorials)
+### 2.2 正点原子 μC/OS-III Development Guide & Example Code (practical STM32-specific RTOS tutorials)
 ### 2.3 Analysis and Application Development of the μC/OS-III Kernel (a book focusing on μC/OS-III internal mechanisms and real-world use cases)
 ## 3. Notes for Users
 All code is tested on STM32F429IGT6-based development boards. Adjustments to hardware pins or HAL configurations may be needed for other STM32F4 variants.
